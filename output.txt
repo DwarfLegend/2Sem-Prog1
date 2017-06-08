@@ -1,0 +1,7 @@
+     ((  CCCCC  ))              DDDDDD  EEEEEEE NN   NN     44  IIIIIII KK   KK 
+    ((  CC   CC  ))             DD   DD EE      NN   NN   4444     I    KK  KK  
+   ((   CC        ))            DD    D EE      NNN  NN  44 44     I    KK KK   
+   ((   CC        ))            DD    D EEEEE   NN N NN 44  44     I    KKKK    
+   ((   CC        ))            DD    D EE      NN  NNN 4444444    I    KK KK   
+    ((  CC   CC  ))             DD   DD EE      NN   NN     44     I    KK  KK  
+     ((  CCCCC  ))              DDDDDD  EEEEEEE NN   NN     44  IIIIIII KK   KK 
